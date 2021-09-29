@@ -1,6 +1,7 @@
 ﻿The first thing that needs to happen though is go see patjak on github and do his initial steps to
- build the drivers to get your camera working to start with. Here is the link:
+ build the drivers to get your camera working to start with. Here are the links:
 
+https://github.com/patjak/bcwc_pcie/wiki/Installation
 https://github.com/patjak/bcwc_pcie/wiki/Get-Started#firmware-extraction
 
 I got the basis for my script from stono on github here:
